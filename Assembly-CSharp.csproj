@@ -45,9 +45,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BotControlScript.cs" />
      <Compile Include="Assets\FunRobot.cs" />
-     <Compile Include="Assets\LaserEyes.cs" />
+     <Compile Include="Assets\JohnControlScript.cs" />
+     <Compile Include="Assets\JohnLaserEyes.cs" />
+     <Compile Include="Assets\KyleControlScript.cs" />
+     <Compile Include="Assets\KyleLaserEyes.cs" />
      <Compile Include="Assets\Move.cs" />
      <Compile Include="Assets\MyCharacterController.cs" />
      <Compile Include="Assets\Samoflange.cs" />
