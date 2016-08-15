@@ -45,19 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\TinyTerrain\Editor\Density\Hill.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Density\InverseHill.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Density\Island.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Surface\EnableStatic.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Textures\DensityNormal.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Textures\FaceNormal.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Textures\FractalAndDensityNormal.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Vegetation\Plants.cs" />
-     <Compile Include="Assets\TinyTerrain\Editor\Vegetation\Vegetation.cs" />
-     <None Include="Assets\TinyTerrain\Standard Assets\Skyboxes\_skybox info.txt" />
-     <None Include="Assets\TinyTerrain\Standard Assets\Water\Shaders\FXWaterPro.shader" />
-     <None Include="Assets\TinyTerrain\README.txt" />
-     <None Include="Assets\TinyTerrain\Materials\TerrainSurface.shader" />
+     <Compile Include="Assets\MecanimAnimationStore\Editor\MixamoStoreWindow.cs" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -106,8 +94,11 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="TinyTerrain">
- <HintPath>C:/Users/swatch/Documents/New Test/Assets/TinyTerrain/Editor/TinyTerrain.dll</HintPath>
+ <Reference Include="Mixamo.UnityStore.Unity4">
+ <HintPath>C:/Users/swatch/Documents/New Test/Assets/MecanimAnimationStore/Editor/Mixamo.UnityStore.Unity4.dll</HintPath>
+ </Reference>
+ <Reference Include="Mixamo.UnityStore">
+ <HintPath>C:/Users/swatch/Documents/New Test/Assets/MecanimAnimationStore/Editor/Mixamo.UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
